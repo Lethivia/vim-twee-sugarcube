@@ -75,7 +75,8 @@ hi def link tweeString			String
 hi def link tweeBool			Boolean
 hi def link tweeNumber			Number
 hi def link tweeLinkedPassage	StorageClass
-hi def link tweePassageTitle	StorageClass
+"hi def link tweePassageTitle	StorageClass
+hi def tweePassageTitle ctermfg=black ctermbg=lightblue guifg=#000000 guibg=#ADD8E6 cterm=bold,italic gui=bold,italic
 hi def link tweeComment			Comment
 hi def link tweeEOL				Comment
 hi def link tweeToDo			Todo
